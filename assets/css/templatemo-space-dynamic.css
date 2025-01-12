@@ -183,7 +183,7 @@ body {
 .section-heading h2 {
   font-size: 30px;
   text-transform: capitalize;
-  color: #2a2a2a;
+  color: #fff;
   font-weight: 700;
   letter-spacing: 0.25px;
   position: relative;
@@ -880,7 +880,7 @@ Banner Style
 .main-banner .left-content h2 {
   font-size: 50px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #fff;
   line-height: 72px;
 }
 
@@ -984,7 +984,7 @@ About Us Style
 }
 
 .about-us .services .item p {
-  color: black;
+  color: #2a2a2a;
 }
 
 
@@ -1041,7 +1041,7 @@ Services Style
 .our-services .progress-skill-bar h4 {
   font-size: 18px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #fff;
   margin-bottom: 14px;
 }
 
@@ -1049,7 +1049,7 @@ Services Style
   width: 100%;
   height: 6px;
   border-radius: 3px;
-  background-color: #f7eff1;
+  background-color: #fff;
   position: relative;
   z-index: 1;
 }
@@ -1185,7 +1185,7 @@ Blog
 .our-blog .right-list .left-content h4 {
   font-size: 20px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #fff;
   margin: 20px 0px 15px 0px;
 }
 
